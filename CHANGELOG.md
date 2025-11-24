@@ -3,7 +3,7 @@
 
 
 
-CHANGELOG.md
+Changelog.md
 
 OPRMT™ Open Prompt Standard – Version History
 
